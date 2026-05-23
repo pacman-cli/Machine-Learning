@@ -1,0 +1,6 @@
+torch==2.8.0
+transformers==4.57.0
+datasets==4.1.1
+tqdm==4.67.1
+numpy==2.3.5
+pyyaml==6.0.2
